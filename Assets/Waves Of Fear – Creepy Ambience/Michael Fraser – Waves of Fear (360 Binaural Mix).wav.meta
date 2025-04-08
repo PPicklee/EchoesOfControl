@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 610427494ed7c4a0584e1178886c4b99
+timeCreated: 1487137099
+licenseType: Store
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 83089
+  packageName: "Waves of Fear \u2013 Creepy Ambience"
+  packageVersion: 1.0
+  assetPath: "Assets/Waves Of Fear \u2013 Creepy Ambience/Michael Fraser \u2013 Waves
+    of Fear (360 Binaural Mix).wav"
+  uploadId: 162272
